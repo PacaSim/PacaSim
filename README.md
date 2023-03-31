@@ -1,5 +1,5 @@
 ### Hi 👋
-I am a student at Inha Institute of Technology.
+I am a student at Inha Technical College.
 <!--
 **PacaSim/PacaSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

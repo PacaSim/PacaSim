@@ -36,6 +36,6 @@
 
 ## 연락처
 
-- **Email** junhyun919@gmail.com
+- **Email**  junhyun919@gmail.com
 - **Portfolio** 
-- **Blog** 
+- **Blog**   https://velog.io/@dmg919

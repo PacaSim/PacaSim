@@ -36,6 +36,6 @@
 
 ## 연락처
 
-- **Email** ·
-- **Portfolio** ·
-- **Blog** ·
+- **Email** junhyun919@gmail.com
+- **Portfolio** 
+- **Blog** 

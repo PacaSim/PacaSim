@@ -47,9 +47,6 @@ class JunhyunSim:
 
 사전학습 CLIP은 고정하고, B-mode 구조 조건과 임상 기준 설명문으로 **조건부 프롬프트**를 만들어 Strain 영상 인코더에 주입하는 유방 탄성초음파 분류 모델
 
-- 학습 파라미터 **2.48M** · Macro AUROC **93.59%** · F1 **82.46%**
-- 어텐션 융합(127.21M) 대비 파라미터 약 **1/51**, AUROC **+1.65%p**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square) ![PEFT](https://img.shields.io/badge/PEFT-2563EB?style=flat-square)
 
 </td>

@@ -3,16 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Junhyun%20Sim&fontSize=64&fontColor=F8FAFC&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Medical%20AI%20%C2%B7%20LLM%20Serving&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=%EC%A0%81%EC%9D%80+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%EB%8F%84+%EC%A0%95%ED%99%95%ED%95%9C+%EB%AA%A8%EB%8D%B8%EC%9D%84+%EB%A7%8C%EB%93%A4%EA%B3%A0;LLM%C2%B7API+%EC%84%9C%EB%B2%84%EB%A1%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90+%EC%97%B0%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4;2.48M+params+%E2%86%92+Macro+AUROC+93.59%25" alt="typing" />
-  </a>
-</p>
+<h3 align="center">적은 데이터로도 정확한 모델을 만들고, LLM·API 서버로 서비스에 연결합니다</h3>
 
 <p align="center">
   <a href="mailto:junhyun919@gmail.com"><img src="https://img.shields.io/badge/Email-junhyun919%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/M.S.-Kyonggi%20Univ.%20CS%20(2027.02)-2563EB?style=flat-square" />
-  <a href="https://doi.org/10.1371/journal.pone.0363737"><img src="https://img.shields.io/badge/PLOS%20ONE-2026-334155?style=flat-square" /></a>
+  <!-- TODO: 포트폴리오 페이지를 만든 뒤 href="#"을 실제 주소로 바꾸세요 -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---

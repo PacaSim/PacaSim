@@ -21,7 +21,6 @@ class JunhyunSim:
     role       = "AI Engineer"
     education  = "경기대학교 대학원 컴퓨터과학과 석사 (2027.02 졸업 예정)"
     focus      = ["Medical Imaging", "Multimodal Learning", "PEFT", "LLM 서비스 연동"]
-    motto      = "연구에서 검증한 모델을 실제로 쓰이는 서비스로"
 ```
 
 ### 🏆 Highlights

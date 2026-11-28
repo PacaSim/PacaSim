@@ -30,7 +30,7 @@ class JunhyunSim:
 |:--|:--|
 | 🥇 **우수논문상** | 2026 한국인터넷정보학회 춘계학술발표대회 · 제1저자 |
 | 🦷 **MICCAI 2025 ToothFairy3** | Task 1 최종 **6위** · Dice 0.82 |
-| 🧬 **AI·가상융합 경진대회 우수상** | 팀장 · <a href="#"><img src="https://img.shields.io/badge/Portfolio-View-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a> |
+| 🧬 **AI·가상융합 경진대회 우수상** | 팀장 · [시연영상](https://youtu.be/niwRdi4E6vI?si=so8QCcnozd8ES00Q) |
 | 🎖️ **우수연구자상** | 경기대 ICT 안전융합인재양성센터 (2026) |
 
 ---

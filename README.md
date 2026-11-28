@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Junhyun%20Sim&fontSize=64&fontColor=F8FAFC&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Medical%20AI%20%C2%B7%20LLM%20Serving&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
-<h3 align="center">적은 데이터로도 정확한 모델을 만들고, LLM·API 서버로 서비스에 연결합니다</h3>
-
 <p align="center">
   <a href="mailto:junhyun919@gmail.com"><img src="https://img.shields.io/badge/Email-junhyun919%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/M.S.-Kyonggi%20Univ.%20CS%20(2027.02)-2563EB?style=flat-square" />

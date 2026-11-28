@@ -136,8 +136,8 @@ B-mode와 Strain을 Cross-Attention으로 서로 비교하고, 동적 게이팅�
 ### 📄 Publications
 
 - Pi, S.-W., **Sim, J.-H.**, & Lee, B.-D. (2026). *Segmentation of sparse coronary artery calcifications in computed tomography via 2.5D multi-slice feature fusion.* **PLOS ONE**, 21(11), e0363737.
-- **심준현**, 이병대. (2025). 심장 CT에서 대동맥판막 석회화의 자동 정량화를 위한 2단계 딥러닝 분할 프레임워크. 한국정보과학회 학술발표논문집, 654–656.
 - 2026 한국인터넷정보학회 춘계학술발표대회, 어텐션 기반 이중 모달리티 융합 (제1저자, **우수논문상**)
+- **심준현**, 이병대. (2025). 심장 CT에서 대동맥판막 석회화의 자동 정량화를 위한 2단계 딥러닝 분할 프레임워크. 한국정보과학회 학술발표논문집, 654–656.
 
 ---
 

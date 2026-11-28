@@ -107,7 +107,7 @@ B-mode와 Strain을 Cross-Attention으로 서로 비교하고, 동적 게이팅�
 |:--|:--|:--|
 | **ToothFairy3** · MICCAI 2025 | 3D CBCT 다중 구조 분할. 데이터 전처리 · 모델 학습 · 앙상블·후처리 | Task 1 6위 · [순위표](https://toothfairy3.grand-challenge.org/challenge-winners/) |
 | **관상동맥 석회화 분할** · PLOS ONE 2026 | 2.5D 다중 단면 특징 융합 (공동저자) | [DOI](https://doi.org/10.1371/journal.pone.0363737) |
-| **대동맥판막 석회화 분할** · KCC 2025 | 위치 검출 후 정밀 분할하는 2단계 구조 (제1저자) | Dice 0.62 → 0.83 |
+| **대동맥판막 석회화 분할** · KSC 2025 | 위치 검출 후 정밀 분할하는 2단계 구조 (제1저자) | Dice 0.62 → 0.83 |
 | **AI 침수 예측·재난 알림** · 2025 PBL | LSTM 침수 예측 + RAG 챗봇을 FastAPI로 통합 (팀장) | 10분 단위 위험 감지·알림 |
 
 </details>
